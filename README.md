@@ -11,11 +11,10 @@ Motto : JUST DO IT
 
 
 # 회사경험
-![스마트미니시티](https://github.com/jjeamin/RESUME/blob/master/image/smartcity.PNG)
+![스마트미니시티](https://github.com/jjeamin/RESUME/blob/master/image/smartcity.jpg)
 
 - 주식회사 프론트유(2018.7 ~ 2018.8)
 - [홈페이지](http://www.frontu.co.kr:8888/)
- 
 - 아두이노 기반 교육용 스마트미니시티 개발
 
 
@@ -24,6 +23,11 @@ Motto : JUST DO IT
 - 블록체인
 - 금융
 
+# 사용언어
+- python
+- c언어
+- java
+- (studying..)
 
 # 교내활동
 
