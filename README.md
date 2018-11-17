@@ -60,7 +60,7 @@ Motto : JUST DO IT
 
 
 ## 해커톤 참여
-
+- 해커톤 [자료](https://github.com/jjeamin/Hackathon)
 
 # 나는 어떤 사람인가?
 ```
