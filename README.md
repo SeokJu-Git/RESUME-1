@@ -46,6 +46,9 @@ Motto : JUST DO IT
 ## 연구실
 - 연구실 깃허브 [here](https://github.com/jeonggunlee/MichinLearning)
 - 깃허브에 들어가시면 활동이력이 나와있습니다.
+  + 세미나
+  + nvidia conference 참여
+  + 대한 전자 공학회 논문
 
 
 ## 동아리
