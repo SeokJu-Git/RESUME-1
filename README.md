@@ -41,7 +41,7 @@ Motto : JUST DO IT
 - (studying..)
 
 
-# 교내활동
+# 개인활동
 
 ## 연구실
 - 연구실 깃허브 [here](https://github.com/jeonggunlee/MichinLearning)
@@ -63,6 +63,9 @@ Motto : JUST DO IT
 - 해커톤 [깃허브](https://github.com/jjeamin/Hackathon)
 >이번에 해커톤을 하면서 자신의 부족함에 반성하게 되었고 정말 오랜만에 져서 분하다는 느낌을 받았습니다.
 >해커톤을 계기로 더욱더 발전되야겠다고 생각했습니다.
+
+## 밑바닥 부터 시작하는 딥러닝 책정리
+- 밑바닥 부터 시작하는 딥러닝 [깃허브](https://github.com/jjeamin/deep_learning_study)
 
 # 나는 어떤 사람인가?
 ```
