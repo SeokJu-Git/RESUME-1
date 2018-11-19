@@ -60,7 +60,7 @@ Motto : JUST DO IT
 
 
 ## 해커톤 참여
-- 해커톤 [자료](https://github.com/jjeamin/Hackathon)
+- 해커톤 [](https://github.com/jjeamin/Hackathon)
 >이번에 해커톤을 하면서 자신의 부족함에 반성하게 되었고 정말 오랜만에 져서 분하다는 느낌을 받았습니다.
 >해커톤을 계기로 더욱더 발전되야겠다고 생각했습니다.
 
