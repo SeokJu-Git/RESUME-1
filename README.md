@@ -65,6 +65,8 @@ Motto : JUST DO IT
 >해커톤을 계기로 더욱더 발전되야겠다고 생각했습니다.
 
 ## 밑바닥 부터 시작하는 딥러닝 책정리
+![책1](https://github.com/jjeamin/RESUME/blob/master/image/book1.PNG)
+
 - 밑바닥 부터 시작하는 딥러닝 [깃허브](https://github.com/jjeamin/deep_learning_study)
 
 # 나는 어떤 사람인가?
