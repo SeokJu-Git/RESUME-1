@@ -57,9 +57,12 @@ Motto : JUST DO IT
 - 인프런 교육
   + 블록체인 기반 스마트 컨트랙트 개발 강의수강
   + 블록체인 이더리움 부동산 댑(dapp) 만들기 강의수강
+  
 - 스팀잇(steemit)글 올리기
   ![스팀잇](https://github.com/jjeamin/RESUME/blob/master/image/steemit.PNG)
+  + [Here](https://steemit.com/@hallym-jm)
   + 글 작성중
+  
 
 ## 해커톤 참여
 - 해커톤 [깃허브](https://github.com/jjeamin/Hackathon)
